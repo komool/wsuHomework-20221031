@@ -1,0 +1,4 @@
+﻿https://google.com
+https://naver.com
+http://localhost:8080
+https://wsu.ac.kr/main
